@@ -10,3 +10,4 @@
 ## Chapter 2: collaborative work
 # git pull
 # git fetch
+# git branch
