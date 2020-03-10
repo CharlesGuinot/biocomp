@@ -6,3 +6,4 @@
 ### git rm
 ###
 # collaborative work
+# git pull
