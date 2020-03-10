@@ -1,6 +1,6 @@
 # Tables of contents
 ## Chapter 1
-[Les fonctions basiques](chapters/chapter1.mb)
+[Les fonctions basiques](chapters/chapter1.md)
 ### git add
 ### git commit
 ### git push
