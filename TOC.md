@@ -5,5 +5,6 @@
 ### git mv
 ### git rm
 ###
-# collaborative work
+## Chapter 2: collaborative work
 # git pull
+# git fetch
